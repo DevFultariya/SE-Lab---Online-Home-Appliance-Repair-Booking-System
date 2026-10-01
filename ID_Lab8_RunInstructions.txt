@@ -1,0 +1,11 @@
+Run Instructions for Repair Booking System (Python)
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory containing the source files:
+   cd f:\Lab8\src
+
+3. Run the main driver program using Python 3:
+   python main.py
+
+4. A menu will appear. You can manually test the system by selecting options 1 through 10.
+5. To run all the required Test Cases (TC01 to TC07), select Option 11 from the menu. You can copy the console output for your Part G (Test Results) submission.
